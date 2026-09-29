@@ -1,11 +1,11 @@
 # Current Team  
 ## Members  
-As of the 29th of September in 2026, the members of this project, as well as their general background information:
+As of the 29th of September in 2026, the members of this project, as well as their general background information are:
 
 **Dmitri Viggo J. Majorenos**&emsp;([@Dmitri-Viggo-Barks](https://github.com/Dmitri-Viggo-Barks))&emsp;- BS Computer Engineering  
 **Luis Nathaniel B. Madrazo**&emsp;([@MaxGooseBumps](https://github.com/MaxGooseBumps))&emsp;- BS Computer Engineering  
 
-Future members may be added once made contact.  
+Future members may be added once needed and made contact.  
 
 ## Roles  
 Each member's role/s are enumerated under their name.  
@@ -15,7 +15,7 @@ Each member's role/s are enumerated under their name.
 - Firmware Developer
 
 **Luis Nathaniel B. Madrazo**
-- Headware Lead
+- Hardware Lead
 - PCB Designer
 
 Roles may be altered or added in the future.  
